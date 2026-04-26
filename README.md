@@ -14,7 +14,7 @@ You can test the API endpoint using Postman.
 ```json
 {
   "url": "https://www.olx.ua/d/uk/obyavlenie/plattya-na-dvchinku-dityache-plattya-plate-na-devochku-ID10n2lJ.html?reason=ip%7Clister",
-  "email": "my-222test1@example.com"
+  "email": "test@gmail.com"
 }
 ```
 
