@@ -27,3 +27,6 @@ If the user has not confirmed their email for the subscription, they will not re
 
 The code has 100% test coverage (You can run ```php artisan test --coverage-html reports```).
 ![img_1.png](img_1.png)
+
+Positive scenario diagram:
+![img.png](img.png)
